@@ -1,3 +1,4 @@
 THis is new file:wq
 THis is new file
 modifed existing file
+hi hello
